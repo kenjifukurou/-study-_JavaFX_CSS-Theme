@@ -1,0 +1,14 @@
+.button {
+    -fx-background-color: rgba(60, 60, 60, 0.2);
+    -fx-text-fill: white;
+}
+
+#blue_button {
+    -fx-background-color: blue;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.label {
+    -fx-text-fill: black;
+}
